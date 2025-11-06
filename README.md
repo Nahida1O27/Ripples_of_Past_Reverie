@@ -20,7 +20,7 @@ And I think it must be a different kind of romantic story than ever before.
  
 Light, Sky, Sea, Stars, Seeds, Flowers, Birds, Hope, and Love  
 Such words of beauty were how I first imagined the world.  
-For as long as I can remember, I've used them to tell the stories of Weng Fai Rose.  
+For as long as I can remember, I've used them to tell the stories of Amphoreus.  
 And now, this is the last one, a story about "tomorrow",  
 didicated to you.  
 
