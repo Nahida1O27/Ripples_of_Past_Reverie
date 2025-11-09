@@ -22,7 +22,7 @@ of course, this will be a romantic story like none that has come before.
  
 Light, Sky, Sea, Stars, Seeds, Flowers, Birds, Hope, and Love  
 Such words of beauty were how I first imagined the world.  
-For as long as I can remember, I've used them to tell the stories of Anphoreus.  
+For as long as I can remember, I've used them to tell the stories of Amphoreus.  
 And now, this is the last one, a story about "tomorrow",  
 didicated to you.  
 
