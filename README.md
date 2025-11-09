@@ -5,10 +5,12 @@
 
 所有源代码文件用UTF-8编码。  
 All source files are encoded in UTF-8.  
-我计划用更多编程语言实现这个项目。  
+我计划用更多编程语言实现。  
 I plan to implement "Hello,World!" in more programming languages.  
-并且我认为这一定是一个不同以往的浪漫故事。  
-And I think it must be a different kind of romantic story than ever before.  
+每当我们决定学习一门新的语言，我想：  
+When we decide to learn a new language, I think that  
+当然，这一定是个不同以往的浪漫故事。  
+of course, this will be a romantic story like none that has come before.  
 
 ---
 
