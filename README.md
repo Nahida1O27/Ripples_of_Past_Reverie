@@ -11,6 +11,10 @@ I plan to implement "Hello,World!" in more programming languages.
 When we decide to learn a new language, I think that  
 当然，这一定是个不同以往的浪漫故事。  
 of course, this will be a romantic story like none that has come before.  
+ 
+去bilibili看动画短片：[《崩坏：星穹铁道》动画短片：「你好，世界」](https://www.bilibili.com/video/BV14G1kB5Evp/)  
+or  
+watch it on YouTube: [Animated Short "Hello,World!" of Honkai: Star Rail](https://youtu.be/LB_65-rOYYo)  
 
 ---
 
@@ -47,7 +51,3 @@ On this final page, with all the love in the world, she drew a "◦" for causali
 Like rippling waves in an endless loop, waiting in the years of yesterday.  
 如同开拓的罗盘，指引明天滚滚向前。  
 Like a trailblazing compass, guiding tomorrow's endless march forward.  
-
-去bilibili看动画短片：[《崩坏：星穹铁道》动画短片：「你好，世界」](https://www.bilibili.com/video/BV14G1kB5Evp/)  
-or  
-watch it on YouTube: [Animated Short "Hello,World!" of Honkai: Star Rail](https://youtu.be/LB_65-rOYYo)  
